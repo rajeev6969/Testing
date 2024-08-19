@@ -14,5 +14,3 @@
     <p><a href="https://exrx.net/Calculators/OneRepMax/Calculator">One Rep Max Calculator</a></p>
     <p><a href="https://www.youtube.com/">YouTube</a></p>
     <p><a href="https://www.powerliftingtowin.com/powerlifting-programs/">Powerlifting Programs</a></p>
-    
-](https://github.com/rajeev6969/Testing.git)](https://github.com/rajeev6969/Testing.git)
